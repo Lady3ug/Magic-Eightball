@@ -7,7 +7,6 @@ console.log(randomNumber);
 /*Math.random() generates a decimal between 0 (inclusive) and 1 (exclusive).
 
 Multiplying by 8 gives a range from 0 up to but not including 8 (i.e., 0 to 7.999...).
-
 Math.floor() rounds it down to the nearest whole number, giving you an integer from 0 to*/ //7;
 
 let eightBall = '';
